@@ -89,7 +89,6 @@ Custom object training
 FPS counter
 
 👨‍💻 Author
-
 Pranay Jadhao
 
 Electronics & Telecommunication Engineer
