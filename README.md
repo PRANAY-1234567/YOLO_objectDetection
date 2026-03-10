@@ -1,6 +1,7 @@
 YOLOv8 Webcam Object Detection 🎯
 
 This project demonstrates real-time object detection using YOLOv8 with a webcam.
+
 It uses OpenCV for video capture and display, and Ultralytics YOLOv8 for object detection.
 
 📌 Features
