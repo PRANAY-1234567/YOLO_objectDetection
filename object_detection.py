@@ -1,4 +1,5 @@
 import cv2 
+
 from ultralytics import YOLO
 
 def detect_webcam(model_name='yolov8n.pt'):
