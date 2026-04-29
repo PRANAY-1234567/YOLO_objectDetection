@@ -27,12 +27,12 @@ Ultralytics YOLOv8
 ├── README.md
 
 ⚙️ Installation
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/yolov8-webcam-detection.git
 cd yolov8-webcam-detection
 
 2️⃣ Create virtual environment (optional but recommended)
-
 python -m venv venv
 source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
@@ -41,11 +41,9 @@ venv\Scripts\activate      # For Windows
 pip install ultralytics opencv-python
 
 ▶️ How to Run
-
 Run the Python script:
 
 python detect_webcam.py
-
 
 Webcam will start automatically
 
@@ -64,13 +62,11 @@ Performs object detection frame-by-frame
 Displays annotated frames in real time
 
 📸 Output Example
-
 Real-time detection with labeled objects
 
 Bounding boxes around detected items
 
 📦 Model Used
-
 YOLOv8n (Nano) – lightweight & fast
 You can replace it with:
 
