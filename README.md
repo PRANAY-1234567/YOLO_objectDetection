@@ -32,6 +32,7 @@ git clone https://github.com/your-username/yolov8-webcam-detection.git
 cd yolov8-webcam-detection
 
 2️⃣ Create virtual environment (optional but recommended)
+
 python -m venv venv
 source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
