@@ -203,3 +203,5 @@ If you found this project helpful:
 💡 *Tip: This project is great to showcase on your resume for computer vision roles.*
 
 ![image](https://github.com/user-attachments/assets/30c761d3-085f-49c0-b30b-c3073ab9a103)
+
+
