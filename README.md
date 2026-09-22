@@ -88,7 +88,6 @@ python detect_webcam.py
 * Webcam starts automatically
 * Each frame is processed using YOLOv8
 * Detected objects appear with:
-
   * Bounding boxes
   * Labels
 
