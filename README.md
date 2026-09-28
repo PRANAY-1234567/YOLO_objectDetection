@@ -6,7 +6,7 @@ Real-time object detection using **YOLOv8** and your webcam. This project levera
 
 ## 📌 Overview
 
-This project captures live video from your webcam and performs **frame-by-frame object detection** using a pre-trained YOLOv8 model. Detected objects are displayed with bounding boxes and labels in real time.
+This project captures live video from your webcam and performs frame-by-frame object detection using a pre-trained YOLOv8 model. Detected objects are displayed with bounding boxes and labels in real time.
 
 ---
 
