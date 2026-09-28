@@ -184,6 +184,7 @@ This project is open-source and available under the MIT License.
 
 **Pranay Jadhao**
 Electronics & Telecommunication Engineer
+
 Aspiring Software & Embedded Systems Engineer
 
 ---
