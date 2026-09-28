@@ -17,5 +17,6 @@ def detect_webcam(model_name='yolov8n.pt'):
     cv2.destroyAllWindows()
 def main():
     detect_webcam()
+    
 if __name__ =='__main__':
     main()
