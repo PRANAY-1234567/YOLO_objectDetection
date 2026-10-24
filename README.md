@@ -115,6 +115,7 @@ Press **`q`** to exit the application.
 ## 📸 Output
 
 * Real-time video stream
+  
 * Objects detected with:
 
   * Labels
